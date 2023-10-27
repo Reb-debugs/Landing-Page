@@ -1,2 +1,4 @@
 # landing-page
-This my attempt at The Odin Project's Landing Page Project.
+This is my attempt at The Odin Project's Landing Page Project.
+
+
